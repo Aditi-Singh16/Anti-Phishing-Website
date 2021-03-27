@@ -22,7 +22,7 @@ The phishing URL are:
 * JavaScript
 
 ## Results
-Our Website detects the URL phishing or not with an accuracy of *80-85%*.
+Our Website detects phishing urls with an accuracy of *80-85%*.
 
 Website Link:
 https://codecampawp.000webhostapp.com/index.php
